@@ -1,0 +1,7 @@
+{
+  "name": "my-notebook",
+  "version": "1.0.0",
+  "dependencies": {
+    "pg": "^8.7.3"  // Example dependency
+  }
+}
